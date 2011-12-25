@@ -1,4 +1,5 @@
-#Wed Dec 21 14:09:34 CET 2011
-default.configuration=gtd-web (1)
+#Sun Dec 25 21:42:35 CET 2011
+default.configuration=gtd-web
 eclipse.preferences.version=1
 hibernate3.enabled=true
+namingStrategy.enabled=false
